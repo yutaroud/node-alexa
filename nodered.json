@@ -1,0 +1,1 @@
+[{"id":"dad91cc2.a1421","type":"template","z":"d13d5bae.ddef68","name":"画像のURLを追加","field":"imageload","fieldType":"msg","format":"html","syntax":"plain","template":"https://example.jpg","output":"str","x":824,"y":81,"wires":[["d3f9660a.4082a8"]]}]
